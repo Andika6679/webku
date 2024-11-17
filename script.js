@@ -1,3 +1,3 @@
 ﻿document.getElementById('downloadBtn').addEventListener('click', function () {
-    window.location.href = 'https://kodular.app/KJT-CMR';  // Ganti dengan link download aplikasi Anda
+    window.location.href = 'https://youtube.com';  // Ganti dengan link download aplikasi Anda
 });
